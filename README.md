@@ -32,7 +32,7 @@ pip install matplotlib networkx
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/dijkstra-gps-navigation.git
+git clone https://github.com/SauravBhowmick/dijkstra-gps-navigation.git
 cd dijkstra-gps-navigation
 ```
 
@@ -260,9 +260,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/your-username/dijkstra-gps-navigation/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/SauravBhowmick/dijkstra-gps-navigation/issues)
 - **Documentation**: Check the `docs/` folder for detailed guides
-- **Email**: your-email@example.com
+- **Email**: bhowmicksaurav28@gmail.com
 
 ---
 
