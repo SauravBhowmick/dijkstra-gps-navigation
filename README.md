@@ -32,7 +32,7 @@ pip install matplotlib networkx
 
 ### Clone Repository
 ```bash
-git clone https://github.com/SauravBhowmick/dijkstra-gps-navigation.git
+git clone https://github.com/your-username/dijkstra-gps-navigation.git
 cd dijkstra-gps-navigation
 ```
 
@@ -153,6 +153,21 @@ Main St & 1st Ave → Elm St & 1st Ave → Pine St & 2nd Ave → Lake Ave & 2nd 
 - Distance updates for each intersection
 - Decision-making process visualization
 
+## 📚 Code Structure
+
+```
+dijkstra-gps-navigation/
+├── gps_navigation.py          # Main implementation
+├── README.md                  # This file
+├── requirements.txt           # Python dependencies
+├── examples/
+│   ├── basic_usage.py        # Simple usage examples
+│   └── advanced_demo.py      # Advanced features demo
+└── docs/
+    ├── algorithm_explanation.md
+    └── api_reference.md
+```
+
 ## 🧪 Testing
 
 Run the built-in demo to test all features:
@@ -262,7 +277,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/SauravBhowmick/dijkstra-gps-navigation/issues)
 - **Documentation**: Check the `docs/` folder for detailed guides
-- **Email**: bhowmicksaurav28@gmail.com
+- **Email**: your-email@example.com
 
 ---
 
