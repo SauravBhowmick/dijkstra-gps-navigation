@@ -277,7 +277,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/SauravBhowmick/dijkstra-gps-navigation/issues)
 - **Documentation**: Check the `docs/` folder for detailed guides
-- **Email**: your-email@example.com
+- **Email**: bhowmicksaurav28@gmail.com
 
 ---
 
