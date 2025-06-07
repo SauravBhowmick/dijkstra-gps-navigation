@@ -268,5 +268,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ⭐ **Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/dijkstra-gps-navigation.svg?style=social&label=Star)](https://github.com/your-username/dijkstra-gps-navigation)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/dijkstra-gps-navigation.svg?style=social&label=Fork)](https://github.com/your-username/dijkstra-gps-navigation/fork)
+[![GitHub stars](https://img.shields.io/github/stars/SauravBhowmick/dijkstra-gps-navigation.svg?style=social&label=Star)](https://github.com/SauravBhowmick/dijkstra-gps-navigation)
+[![GitHub forks](https://img.shields.io/github/forks/SauravBhowmick/dijkstra-gps-navigation.svg?style=social&label=Fork)](https://github.com/SauravBhowmick/dijkstra-gps-navigation/fork)
